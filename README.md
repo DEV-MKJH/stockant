@@ -1,2 +1,3 @@
-# stockant
-StockANT
+# StockANT
+## Stock ANalysis Technique
+
